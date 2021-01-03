@@ -13,6 +13,20 @@
           "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$49.99",
           "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        },
+    {
+          "id": "3",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        },
+    {
+          "id": "4",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
         }
   ]
 }
