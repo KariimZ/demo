@@ -55,6 +55,34 @@
           "details": "20 illustrations",
           "price": "$24.99",
           "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/09/Storytale-4.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "meetup",
+          "name": "Meetup",
+          "details": "14 illustrations",
+          "price": "$14.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/09/Storytale-3.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "back-to-school",
+          "name": "Back to school",
+          "details": "20 illustrations",
+          "price": "$34.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/08/Storytale-4.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "sunshine",
+          "name": "Sunshine",
+          "details": "10 illustrations",
+          "price": "$14.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/06/Storytale-2.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "oslo-2",
+          "name": "Oslo 2",
+          "details": "34 illustrations",
+          "price": "$24.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/05/OSLO-2.png?lossy=1&strip=1&webp=1"
         }
   ]
 }
