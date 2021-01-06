@@ -1,32 +1,60 @@
 {
   "products": [
        {
-          "id": "ghost-whey-x-chips-ahoy",
-          "name": "Ghost Whey X Chips Ahoy",
-          "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-          "price": "$39.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+          "id": "things",
+          "name": "Things",
+          "details": "55 illustrations",
+          "price": "$19.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/10/Storytale-1-Cover-2.png?lossy=1&strip=1&webp=1"
         },
       {
-          "id": "ghost-whey-vegan",
-          "name": "GHOST® Vegan Protein",
-          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-          "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+          "id": "superscene",
+          "name": "Superscene",
+          "details": "62 illustrations",
+          "price": "$29.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/08/Storytale.png?lossy=1&strip=1&webp=1"
         },
     {
-          "id": "3",
-          "name": "GHOST® Vegan Protein",
-          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-          "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+          "id": "oh-my-startup",
+          "name": "Oh my startup",
+          "details": "15 illustrations",
+          "price": "$19.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/11/Storytale.png?lossy=1&strip=1&webp=1"
         },
     {
-          "id": "4",
-          "name": "GHOST® Vegan Protein",
-          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-          "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+          "id": "blotter",
+          "name": "Blotter",
+          "details": "30 illustrations",
+          "price": "$14.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/09/Storytale-5.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "ux-ui",
+          "name": "UX/UI",
+          "details": "43 illustrations",
+          "price": "$19.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/08/Storytale-5.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "midnight",
+          "name": "Midnight",
+          "details": "15 illustrations",
+          "price": "$24.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/07/Storytale-5.png?lossy=1&strip=1&webp=1"
+        },
+    {
+          "id": "fatal-error",
+          "name": "Fatal error",
+          "details": "27 illustrations",
+          "price": "$14.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/12/Storytale-1-Cover.png?lossy=1&strip=1&webp=1"
+        },
+     {
+          "id": "superb",
+          "name": "Superb",
+          "details": "20 illustrations",
+          "price": "$24.99",
+          "image": "https://842930.smushcdn.com/1760858/wp-content/uploads/2020/04/Superb-1.png?lossy=1&strip=1&webp=1"
         }
   ]
 }
